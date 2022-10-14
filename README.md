@@ -14,6 +14,11 @@ Shared by **Văn Lập** in **J2TEAM Community**
 
 > Just click on the [**Release**](https://github.com/KevinNitroK/Complete-Python-Bootcamp/releases)
 
+<Details>
+<summary>
+Or click here
+</summary>
+
 1. [Course Overview](https://github.com/KevinNitroK/Complete-Python-Bootcamp/releases/tag/01CourseOverview)
 2. [Python Setup](https://github.com/KevinNitroK/Complete-Python-Bootcamp/releases/tag/02PythonSetup)
 3. [Python Object and Data Structure Basics](https://github.com/KevinNitroK/Complete-Python-Bootcamp/releases/tag/03PythonObjectandDataStructureBasics)
@@ -37,3 +42,5 @@ Shared by **Văn Lập** in **J2TEAM Community**
 21. [Bonus Material - Introduction to GUIs](https://github.com/KevinNitroK/Complete-Python-Bootcamp/releases/tag/21BonusMaterial-IntroductiontoGUIs)
 22. [APPENDIX_ OLDER PYTHON 2 MATERIAL](https://github.com/KevinNitroK/Complete-Python-Bootcamp/releases/tag/22APPENDIX_OLDERPYTHON2MATERIAL)
 23. [BONUS SECTION_ THANK YOU!](https://github.com/KevinNitroK/Complete-Python-Bootcamp/releases/tag/23BONUSSECTION_THANKYOU!)
+  
+</Details>
